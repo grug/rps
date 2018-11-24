@@ -1,0 +1,21 @@
+.Menu {
+  padding: 10px;
+  background-color: #282c34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Menu p {
+  margin: 4px;
+}
+
+.Menu button {
+  margin: 4px;
+  cursor: pointer;
+  border-radius: 16px;
+  padding: 5px;
+  font-size: 16px;
+}
